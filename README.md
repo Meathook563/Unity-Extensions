@@ -12,25 +12,20 @@ To install, copy this url from under the code section and clone into the Unity's
  <p>GetClosetVectorFrom this will return the closet vector from an array of other vectors. This uses both a 2D and a 3D vector.</p>
 </details>
 <details>
- <summary>Vector Extensions</summary>
- <p>GetClosetVectorFrom this will return the closet vector from an array of other vectors. This uses both a 2D and a 3D vector.</p>
+ <summary>Transform Extenions</summary>
+ <p>ResetTransformations this will reset the transform.</p>
+ <p>DestroyChildren this will destroy all the children that the current transform has.</p>
+ <p>SetChildLayers this will set all the child layers that this transform has.</p>
+ <p>SetX this will set the X value of the transform.position.</p>
+ <p>SetY this will set the Y value of the transform.position.</p>
+ <p>SetZ this will set the Z value of the transform.position.</p>
 </details>
-Transform Extenions
+<details>
+ <summary>Component & GameObject Extenions</summary>
+ <p>HasComponent this will check if this Component or GameObject has the component. </p>
+</details>
+<details>
+ <summary>Inspector Button Attribute</summary>
+ <p>Creates a button in the inspector, has string parameter of the method name.</p>
+</details>
 
-ResetTransformations this will reset the transform
-
-DestroyChildren this will destroy all the children that the current transform has.
-
-SetChildLayers this will set all the child layers that this transform has.
-
-SetX this will set the X value of the transform.position.
-SetY this will set the Y value of the transform.position.
-SetZ this will set the Z value of the transform.position.
-
-Component & GameObject Extenions
-
-HasComponent this will check if this Component or GameObject has the component. 
-
-Inspector Button Attribute
-
-Creates a button in the inspector, has string parameter of the method name. 
