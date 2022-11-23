@@ -7,10 +7,14 @@ To install, copy this url from under the code section and clone into the Unity's
 
 ## Features
 
-Vector Extensions
-
-GetClosetVectorFrom this will return the closet vector from an array of other vectors. This uses both a 2D and a 3D vector.
-
+<details>
+ <summary>Vector Extensions</summary>
+ <p>GetClosetVectorFrom this will return the closet vector from an array of other vectors. This uses both a 2D and a 3D vector.</p>
+</details>
+<details>
+ <summary>Vector Extensions</summary>
+ <p>GetClosetVectorFrom this will return the closet vector from an array of other vectors. This uses both a 2D and a 3D vector.</p>
+</details>
 Transform Extenions
 
 ResetTransformations this will reset the transform
