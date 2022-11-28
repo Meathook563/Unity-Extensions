@@ -10,6 +10,7 @@ To install, copy this url from under the code section and clone into the Unity's
 <details>
  <summary>Vector Extensions</summary>
  <p>GetClosetVectorFrom this will return the closet vector from an array of other vectors. This uses both a 2D and a 3D vector.</p>
+ <p>A Set of Random Functions. Works for both Vector2D and Vector3D.</p>
 </details>
 <details>
  <summary>Transform Extenions</summary>
