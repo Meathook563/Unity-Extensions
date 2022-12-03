@@ -29,4 +29,7 @@ To install, copy this url from under the code section and clone into the Unity's
  <summary>Inspector Button Attribute</summary>
  <p>Creates a button in the inspector, has string parameter of the method name.</p>
 </details>
-
+<details>
+ <summary>List & Array Extensions</summary>
+ <p>GetRandom will return a random element in the list or array.</p>
+</details>
